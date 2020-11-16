@@ -81,7 +81,7 @@ I am studying computer engineering at PNU University.
 
 - English(Normal)
 
--korean(normal)
+ -korean(normal)
 
 ### Licenses & Certifications
 
