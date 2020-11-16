@@ -53,3 +53,44 @@
 <ul>
   <li>رزومه ے انگلیسے: <a href="https://resume-fa.github.io/"> رزومه </a></li>
 </ul>
+<img src="" />
+
+### About Me
+
+I am Mahdieh Hosseini
+I am studying computer engineering at PNU University.
+
+### Personal Information
+
+- First Name: Erfaneh
+- Last Name: jafrinezhad
+- Birth Date: 2000/03/14
+- Marriage Status: Single
+
+### Skills
+
++ Javascript
+
++ C++
+
++ C
+
+### Languages
+
+- Persian(Advanced)
+
+- English(Normal)
+
+-korean(normal)
+
+### Licenses & Certifications
+
+- calligraghy
+- Paint whith pen 
+- Writing 
+-pop guitar instrumentalist
+
+### Other Accounts
+  nothing
+  
+  Persian Resume: <a href=""> Resume </a>
